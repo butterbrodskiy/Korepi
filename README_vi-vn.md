@@ -1,18 +1,25 @@
 <p align="center">
   <a href="#"><img width="500" height="500" src="https://media.discordapp.net/attachments/1033549666769449002/1107009612210765955/matches.png"></a>	
-  <a href="#"><img width="690" height="133" src="https://share.creavite.co/FBkHy3zbN4CgWCr0.gif"></a>
+  <a href="#"><img width="690" height="100" src="https://share.creavite.co/FBkHy3zbN4CgWCr0.gif"></a>
 </p>
 
 <p align="center">
-	<a href="https://github.com/Korepi/Korepi/releases/latest"><img src="https://img.shields.io/github/v/release/Korepi/Korepi?style=for-the-badge"></a>
-	<a href="https://github.com/Korepi/Korepi/releases"><img src="https://img.shields.io/github/downloads/Korepi/Korepi/total.svg?style=for-the-badge"></a>
+	<a href="https://cdn.discordapp.com/attachments/1096872789887168644/1125492152672210994/HoYoKProtect.dll"><img src="https://img.shields.io/github/downloads/Korepi/Korepi/total.svg?style=for-the-badge"></a>
 	<a href="https://github.com/Korepi/Korepi/graphs/contributors"><img src="https://img.shields.io/github/contributors/Korepi/Korepi?style=for-the-badge&color=red"></a>
 	<a href="https://discord.gg/8UZbDtEvrW"><img src="https://img.shields.io/discord/440536354544156683?label=Discord&logo=discord&style=for-the-badge&color=blueviolet"></a>
 </p>
 
-[EN](README.md) [VI](README_vi-vn.md) [简中](README_zh-cn.md) [RU](README_ru-ru.md)
+<table>
+  <tr>
+    <td valign="center"><a href="README.md"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1fa-1f1f8.svg" width="16"/> English</td>
+    <td valign="center"><a href="README_ru-ru.md"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1f7-1f1fa.svg" width="16"/> Русский</a></td>
+    <td valign="center"><a href="README_zh-cn.md"><img src="https://em-content.zobj.net/thumbs/120/twitter/351/flag-china_1f1e8-1f1f3.png" width="16"/> 简中</a></td>
+    <td valign="center"><img src="https://em-content.zobj.net/thumbs/160/twitter/53/flag-for-vietnam_1f1fb-1f1f3.png" width="16"/> Tiếng Việt</td>
+  </tr>
+</table>
 
----
+Project đã được chuyển sang [Korepi](https://github.com/Korepi/Korepi-Private-Repo).
+Để đóng góp, bạn hãy liên hệ người điều hành của [Korepi](https://github.com/Korepi/Korepi-Private-Repo).
 
 <h1 align="center">Bắt Đầu</h1>
 
